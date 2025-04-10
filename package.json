@@ -1,0 +1,17 @@
+{
+  "name": "crypto-watch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "next": "12.0.10",
+    "react": "^17.0.2",
+    "recharts": "^2.1.9"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {}
+}
